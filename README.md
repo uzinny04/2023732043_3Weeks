@@ -1,2 +1,1 @@
-# 2023732043_3Weeks
-인공지능응용 수업
+Hello, Git! My name is minhee.

@@ -1,1 +1,1 @@
-Hello, Git! My name is 유진.
+Hello, Git! My name is yujin.

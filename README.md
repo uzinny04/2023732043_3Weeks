@@ -1,1 +1,1 @@
-Hello, Git! My name is uzinny.
+Hello, Git! My name is uzin.

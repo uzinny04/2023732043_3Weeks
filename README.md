@@ -1,2 +1,1 @@
-Hello, Git!   y name is uzin.    
-ㅁㄴㅇㄹ
+Hello, Git!   y name is uzin.  
